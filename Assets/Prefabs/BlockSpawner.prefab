@@ -132,5 +132,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 25acbe00a68d76df485dd0e35079aa03, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  blockSource: {fileID: 0}
+  blockSource: {fileID: 4290546705181910505, guid: 1e6ba042f9ed1eeb8a18f63ff5d9a6ce, type: 3}
   spawnInterval: 3

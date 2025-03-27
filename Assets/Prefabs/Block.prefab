@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 6215032310670320207}
   m_Layer: 0
   m_Name: Block
-  m_TagString: Untagged
+  m_TagString: Block
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -175,3 +175,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1a192a3e21a5c2b88f7d6587026e52, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  deathSounds:
+  - {fileID: 8300000, guid: cc0fba3c3bbac8a7894edb222d092a1a, type: 3}
+  - {fileID: 8300000, guid: ab9331d389cddd22fb5698fec5c581a5, type: 3}
+  - {fileID: 8300000, guid: c40626ef40a579234b36196968733fe0, type: 3}
+  - {fileID: 8300000, guid: 4165e73e50771bb64853026714378f1e, type: 3}
+  - {fileID: 8300000, guid: c975720f2cf1ec01a808137661591754, type: 3}
+  - {fileID: 8300000, guid: 391b02f8abf907fee856ca408e99cbdc, type: 3}
+  - {fileID: 8300000, guid: 5e50a9743efcc7c27b95d9b457af7c26, type: 3}
+  - {fileID: 8300000, guid: 5ee65e5fd64ac2f3e9619de92a34093c, type: 3}
+  - {fileID: 8300000, guid: 37f8cdd196f498740aac4b117e618705, type: 3}
+  - {fileID: 8300000, guid: c8ca629a6cc49d4a7b77b831f0494d38, type: 3}
+  - {fileID: 8300000, guid: 53a0a0f1e6acbd17dad35a93af2a6fe1, type: 3}
+  - {fileID: 8300000, guid: 3b852e15b5065cefbb6699ee0a8e3d54, type: 3}
+  audioSource: {fileID: 4954130059794987541, guid: a0bed98ada4da8ae68c76e8fe5cdf796, type: 3}

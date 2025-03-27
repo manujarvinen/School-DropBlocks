@@ -36,8 +36,10 @@ public class red : MonoBehaviour
         }
     }
 
-    void OnTriggerEnter2D(Collider2D other)
-    {
-        Destroy(gameObject);
-    }
+    // Commented out until this object has health:
+
+    // void OnTriggerEnter2D(Collider2D other)
+    // {
+    //     Destroy(gameObject);
+    // }
 }
